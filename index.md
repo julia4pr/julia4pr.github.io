@@ -62,9 +62,9 @@
 
 > 待办：
 > 
-> - [ ] 桌面 PC 或手机端初始工具的准备。官方已有简易指导：[How to run DApp on PC/Mobile?](https://saysomething2world.push.game/posts/dapp/)
-> - [ ] 钱包、私钥的安全常识与进阶
-> - [ ] 交易所注册、购买 ETH、如何提币到自己的钱包地址
+> - 桌面 PC 或手机端初始工具的准备。官方已有的一个简要指导：[How to run DApp on PC/Mobile?](https://saysomething2world.push.game/posts/dapp/) 英文
+> - 钱包、私钥的安全常识与进阶
+> - 交易所注册、购买 ETH、如何提币到自己的钱包地址
 
 
 
@@ -72,8 +72,8 @@
 
 > 待办：
 > 
-> - [ ] 通过此留言赚钱游戏发送第一条留言
-> - [ ] 等待奖励通知后，查看收益
+> - 通过此留言赚钱游戏发送第一条留言
+> - 等待奖励通知后，查看收益
 
 
 
