@@ -1,10 +1,10 @@
-# 留言赚钱游戏解读
+# 一文解读以太坊留言游戏
 
 嗨，我是 Julia
 
-这里为大家解读一个英文原名 SaySomething2.world 的以太坊留言板赚钱，应该是我接触过的最容易赚钱的区块链游戏了。
+这里为大家解读一个英文原名 SaySomething2.world 的以太坊留言板，应该是我接触过的最容易赚钱的区块链游戏了。
 
-留言赚钱游戏，缩写和网址都是 [SaySomething2.world](https://saysomething2.world/?a=0x1) 对应英文全名 Say something to the world，我暂时把它称为 **留言赚钱游戏**
+游戏缩写和网址都是 [SaySomething2.world](https://saysomething2.world/?a=0x1) 对应英文全名 Say something to the world，我暂时把它称为 **留言游戏**
 
 这是我的第一篇解读稿，并正在更新中……
 
