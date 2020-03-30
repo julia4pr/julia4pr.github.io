@@ -189,7 +189,7 @@
 
 参与游戏需要钥匙，来找我要
 
-来我的私人电报群交流：https://t.me/juliaGroup
+来我的 Telegram 私人电报群交流：[https://t.me/juliaGroup](https://t.me/juliaGroup)
 
 也欢迎关注我的 Twitter [@julia4pr](https://twitter.com/Julia4pr)
 
