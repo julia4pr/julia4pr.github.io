@@ -95,7 +95,7 @@
 
 这里直接引用游戏中的视频讲解
 
-<video class="w-full"
+<video style="width: 100%"
        controls="controls"
        poster="https://stor.123eth.io/video-poster.png?v=1">
   <source type="video/mp4"
