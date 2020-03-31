@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: julia4pr/jekyll-theme-cayman
 
 title: 以太坊留言游戏解读
 description: 区块链永久留言、100% 奖金裂变式分配 - SaySomething2.world
