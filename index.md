@@ -99,17 +99,14 @@
        controls="controls"
        poster="https://stor.123eth.io/video-poster.png?v=1">
   <source type="video/mp4"
-          src="https://stor.123eth.io/0480.mp4?v=1"/>
+          src="https://stor.123eth.io/0720.mp4?v=1"/>
   <source type="video/webm"
-          src="https://stor.123eth.io/0480.webm?v=1"/>
+          src="https://stor.123eth.io/0720.webm?v=1"/>
 </video>
 
 
 > 找时间我再另向 Youtube 上传一份，方便分享传阅
 
-
-
----
 
 
 ## 详细解读：资金分配
