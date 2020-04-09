@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Julia's Blog
 ---
 
 ## Hi
