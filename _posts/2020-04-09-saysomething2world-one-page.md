@@ -260,7 +260,7 @@ tags:
   所有收入最终都回馈给参与者，干净利落
 
 
-## 如果终将风靡，来得越早，机会越好
+## 如果终将风靡，早早参与的你，会收获什么呢？
 
 研读规则，推演一下便知，定然是指数级增长
 
@@ -271,19 +271,4 @@ tags:
 来我的 Telegram 私人电报群交流：[https://t.me/juliaGroup](https://t.me/juliaGroup)
 
 也欢迎关注我的 Twitter [@julia4pr](https://twitter.com/Julia4pr)
-
-
-
----
-
-## 相关链接
-
-
-| 用途 | 链接 |
-| :---: | :--- |
-| 访问首页 | [https://julia4pr.github.io](https://julia4pr.github.io) |
-| 媒体、社群合作 | [https://julia4pr.github.io/corp](https://julia4pr.github.io/corp) |
-| 关注我的 Twitter | [https://twitter.com/Julia4pr](https://twitter.com/Julia4pr) |
-| 加入我的 Telegram 私人群组 | [https://t.me/juliaGroup](https://t.me/juliaGroup) |
-| 订阅我的 Telegram 私人频道 | [https://t.me/juliaSub](https://t.me/juliaSub) |
 
