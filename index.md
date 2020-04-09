@@ -1,5 +1,9 @@
+---
+layout: home
+title: Julia's Blog
+---
 
-## Hi
+## Julia's Blog
 
 嗨，我是 Julia。
 
