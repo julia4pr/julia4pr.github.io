@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Julia's Blog
+title: 胆小鬼大赢家 Julia
 ---
 
-## Julia's Blog
+## 胆小鬼大赢家 Julia's Blog
 
 嗨，我是 Julia。
 
