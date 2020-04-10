@@ -14,7 +14,7 @@ title: For BOT
 附：
 1. [《一文解读胆小鬼与大赢家》](https://julia4pr.github.io/saysomething2world-one-page/)
 2. [媒体、社群领袖合作](https://julia4pr.github.io/corp)
-3. [博客：文章资料集合](https://julia4pr.github.io)
+3. [Julia 的博客](https://julia4pr.github.io) 文章资料集合
 
 
 回复数字 `"1"` 查看简介
