@@ -4,10 +4,136 @@ title: Telegram 图文广告位
 tagline: 定案后再开始投放
 ---
 
-## 海报
+## 组合 1-1
 
-![tg-cindy5200.jpg](/assets/pops/tg-cindy5200.jpg)
+![pop](/assets/pops/cindy01.jpg)
 
+```text
+🔥 启动筹备中，初始席位有限，快来进群组队 @juliaGroup
+```
+
+
+## 组合 1-2
+
+![pop](/assets/pops/cindy02.jpg)
+
+```text
+🔥 创世筹备中，初始席位有限，快来进群组队 @juliaGroup
+```
+
+
+## 组合 1-3
+
+![pop](/assets/pops/cindy02.jpg)
+
+```text
+🔥 创世招募中，初始席位有限，快来进群组队 @juliaGroup
+```
+
+
+
+## 组合 2-1
+
+![pop](/assets/pops/cindy11.jpg)
+
+```text
+🔥 启动筹备中，初始席位有限，快快进群组队 @juliaGroup
+```
+
+
+## 组合 2-2
+
+![pop](/assets/pops/cindy12.jpg)
+
+```text
+🔥 创世筹备中，初始席位有限，快快进群组队 @juliaGroup
+```
+
+
+## 组合 2-3
+
+![pop](/assets/pops/cindy12.jpg)
+
+```text
+🔥 创世招募中，初始席位有限，快快进群组队 @juliaGroup
+```
+
+
+
+
+
+## 组合 3-1
+
+![pop](/assets/pops/cindy21.jpg)
+
+```text
+🔥 启动筹备中，初始席位有限，快来预定 @juliaGroup
+```
+
+
+## 组合 3-2
+
+![pop](/assets/pops/cindy22.jpg)
+
+```text
+🔥 创世筹备中，初始席位有限，快来预定 @juliaGroup
+```
+
+
+## 组合 3-3
+
+![pop](/assets/pops/cindy22.jpg)
+
+```text
+🔥 创世招募中，初始席位有限，快来预定 @juliaGroup
+```
+
+
+
+
+## 组合 4-1
+
+![pop](/assets/pops/cindy31.jpg)
+
+```text
+🔥 启动筹备中，初始席位有限，来撩 @juliaGroup
+```
+
+
+## 组合 4-2
+
+![pop](/assets/pops/cindy32.jpg)
+
+```text
+🔥 创世筹备中，初始席位有限，来撩 @juliaGroup
+```
+
+
+## 组合 4-3
+
+![pop](/assets/pops/cindy32.jpg)
+
+```text
+🔥 创世招募中，初始席位有限，来撩 @juliaGroup
+```
+
+
+---
+
+< THE END >
+
+---
+
+## 其它：海报 独立 x3
+
+![pop1](/assets/pops/pop1.jpg)
+
+![pop2](/assets/pops/pop2.jpg)
+
+![pop3](/assets/pops/pop3.jpg)
+
+
+---
 
 ## 文本
 
@@ -140,10 +266,3 @@ tagline: 定案后再开始投放
 
 
 
-## 其它海报 独立 x3
-
-![pop1](/assets/pops/pop1.jpg)
-
-![pop2](/assets/pops/pop2.jpg)
-
-![pop3](/assets/pops/pop3.jpg)
