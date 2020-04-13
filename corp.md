@@ -22,14 +22,7 @@ tagline: 坦诚沟通，最，高，效
 
 ## 携手，共进
 
-| 用途 | 链接 |
-| :---: | :--- |
-| 博客首页 | [https://julia4pr.github.io](https://julia4pr.github.io) |
-| Telegram 个人 | [https://t.me/julia4pr](https://t.me/julia4pr) |
-| Telegram 群组 | [https://t.me/juliaGroup](https://t.me/juliaGroup) |
-| Telegram 频道 | [https://t.me/juliaSub](https://t.me/juliaSub) |
-| Twitter | [https://twitter.com/Julia4pr](https://twitter.com/Julia4pr) |
-| E-mail | [julia4pr@protonmail.com](mailto:julia4pr@protonmail.com) |
+{% include table-contact.md %}
 
 欢迎与我联系
 

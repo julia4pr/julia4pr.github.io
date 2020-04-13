@@ -452,26 +452,25 @@ a {
       text-decoration: none;
     }
 
-    @include large {
-      padding: 0px 5px 0px 5px;
+    @include small {
+      padding: 0 6px 6px 6px;
     }
 
     @include medium {
       //font-size: 1rem;
-      padding: 0px 10px 10px 10px;
+      padding: 0 10px 10px 10px;
     }
 
-    @include small {
-      padding: 0px 10px 10px 10px;
+    @include large {
+      padding: 0 12px 12px 12px;
     }
   }
 
   .my-svg-icon {
-
     color: $body-text-color; // IE8
     fill: $body-text-color; // IE8
-    width: 24px;
-    height: 24px;
+    width: 36px;
+    height: 36px;
 
     &:hover {
       text-decoration: none;
@@ -481,19 +480,19 @@ a {
       transition: color .5s, transform .2s ease-out
     }
 
-    @include large {
-      width: 28px;
-      height: 28px;
-    }
-
-    @include medium {
-      width: 32px;
-      height: 32px;
-    }
-
     @include small {
       width: 36px;
       height: 36px;
+    }
+
+    @include medium {
+      width: 42px;
+      height: 42px;
+    }
+
+    @include large {
+      width: 48px;
+      height: 48px;
     }
 
   } // social-icons

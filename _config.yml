@@ -34,4 +34,8 @@ plugins:
 target-blank:
     rel: nofollow
 
-header_page_refs: ['faq', 'now', 'about']
+header_page_refs: ['faq']
+
+ss:
+  key: "0x1"
+
