@@ -7,15 +7,19 @@ title: For BOT
 ```markdown
 嗨 {members}
 
-欢迎来到以太坊 DApp 游戏 [《胆小鬼与大赢家》]({base_url}/?a=0x1) 1 号玩家 Julia 的私人群组。欢迎大家能在这里畅所欲言、互助交流、一起玩、一起赚！
+欢迎来到以太坊 DApp 游戏 [《胆小鬼大赢家》]({base_url}/?a=0x1) 1 号玩家 Julia 的私人群组。欢迎大家能在这里畅所欲言、互助交流、一起玩、一起赚！
 
 如需你有一些疑问或者需要协助，可以直接在这里发言与大家交流，Julia 也会尽量及时关注和给出回复
 
 附：
-1. [《一文解读胆小鬼与大赢家》](https://julia4pr.github.io/saysomething2world-one-page/)
-2. [媒体、社群领袖合作](https://julia4pr.github.io/corp)
-3. [Julia 的博客](https://julia4pr.github.io) 文章资料集合
+- [Julia 的博客文集首页](https://julia4pr.github.io)
+- [媒体、社群领袖合作](https://julia4pr.github.io/corp/)
 
+- [《一文解读胆小鬼与大赢家》](https://julia4pr.github.io/one-page/)
+- [观点：普通人的逆向整合机会](https://julia4pr.github.io/bottom2top/)
+- [观点：区块链上不可磨灭的留言](https://julia4pr.github.io/message4/)
+- [解读：大小双奖池规则](https://julia4pr.github.io/prizes/)
+- [解读：奖励规则](https://julia4pr.github.io/bonuses/)
 
 回复数字 `"1"` 查看简介
 ```
