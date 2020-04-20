@@ -40,7 +40,7 @@ https://t.me/juliaGroup
 
 ## 组合 1-1
 
-![pop](/assets/pops/cindy01.jpg)
+![pop](/assets/pops/cindyA1.jpg)
 
 ```text
 [空行]
@@ -51,7 +51,7 @@ https://t.me/juliaGroup
 
 ## 组合 1-2
 
-![pop](/assets/pops/cindy02.jpg)
+![pop](/assets/pops/cindyA2.jpg)
 
 ```text
 [空行]
@@ -62,7 +62,7 @@ https://t.me/juliaGroup
 
 ## 组合 1-3
 
-![pop](/assets/pops/cindy03.jpg)
+![pop](/assets/pops/cindyA3.jpg)
 
 ```text
 [空行]
@@ -74,7 +74,7 @@ https://t.me/juliaGroup
 
 ## 组合 2-1
 
-![pop](/assets/pops/cindy11.jpg)
+![pop](/assets/pops/cindyB1.jpg)
 
 ```text
 [空行]
@@ -85,7 +85,7 @@ https://t.me/juliaGroup
 
 ## 组合 2-2
 
-![pop](/assets/pops/cindy12.jpg)
+![pop](/assets/pops/cindyB2.jpg)
 
 ```text
 [空行]
@@ -96,7 +96,7 @@ https://t.me/juliaGroup
 
 ## 组合 2-3
 
-![pop](/assets/pops/cindy13.jpg)
+![pop](/assets/pops/cindyB3.jpg)
 
 ```text
 [空行]
@@ -110,7 +110,7 @@ https://t.me/juliaGroup
 
 ## 组合 3-1
 
-![pop](/assets/pops/cindy21.jpg)
+![pop](/assets/pops/cindyC1.jpg)
 
 ```text
 [空行]
@@ -121,7 +121,7 @@ https://t.me/juliaGroup
 
 ## 组合 3-2
 
-![pop](/assets/pops/cindy22.jpg)
+![pop](/assets/pops/cindyC2.jpg)
 
 ```text
 [空行]
@@ -132,7 +132,7 @@ https://t.me/juliaGroup
 
 ## 组合 3-3
 
-![pop](/assets/pops/cindy23.jpg)
+![pop](/assets/pops/cindyC3.jpg)
 
 ```text
 [空行]
@@ -145,7 +145,7 @@ https://t.me/juliaGroup
 
 ## 组合 4-1
 
-![pop](/assets/pops/cindy31.jpg)
+![pop](/assets/pops/cindyD1.jpg)
 
 ```text
 [空行]
@@ -156,7 +156,7 @@ https://t.me/juliaGroup
 
 ## 组合 4-2
 
-![pop](/assets/pops/cindy32.jpg)
+![pop](/assets/pops/cindyD2.jpg)
 
 ```text
 [空行]
@@ -167,7 +167,7 @@ https://t.me/juliaGroup
 
 ## 组合 4-3
 
-![pop](/assets/pops/cindy33.jpg)
+![pop](/assets/pops/cindyD3.jpg)
 
 ```text
 [空行]
