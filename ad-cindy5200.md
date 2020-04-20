@@ -20,7 +20,7 @@ tagline: 图文组合按序使用
 - **完整复制文本，包含 emoji 表情哦**
 - 如图：
   ![text](/assets/pops/cindy_text.png)
-
+- 空行，换行：在 PC 键盘上使用 Ctrl + Enter 输入
 
 
 ### 3. 链接指向
