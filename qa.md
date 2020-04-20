@@ -22,6 +22,8 @@ ref: qa
 如需你有一些疑问或者需要协助，可以直接在这里发言与大家交流，Julia 也会尽量及时关注和给出回复
 
 附：
+- [視訊：遊戲介紹及規則](https://youtu.be/m3ZEn1JzicY)
+
 - [博客文集首页](https://julia4pr.github.io)
 - [媒体、社群领袖合作](https://julia4pr.github.io/corp/)
 
@@ -52,6 +54,21 @@ ref: qa
 【鼓励创意】分享留言、分享创意
 【鼓励分享】分享经验、分享收获
 【鼓励互助】答疑解惑、互帮互助
+```
+
+## 什么群
+
+```markdown
+这里是以太坊 DApp 游戏 [《胆小鬼与大赢家》](https://saysomething2.world/i?a=0x1) 1 号玩家 Julia 的私人聊天群组
+
+一个视频帮你快速了解
+https://youtu.be/m3ZEn1JzicY
+```
+
+```markdown
+This is a chat group for a decentralized game [SaySomething2.world](https://saysomething2.world/i?a=0x1), also named *Coward and Big-winners*, runs on the Ethereum blockchain
+
+Here is a video to help you quickly understand it: https://youtu.be/m3ZEn1JzicY
 ```
 
 
@@ -375,6 +392,48 @@ PS:
 ```
 
 
+## 视频介绍
+
+> 视频,video
+>
+> 视频介绍
+
+```markdown
+Here is a video to help you quickly understand the game
+視讯：《膽小鬼大贏家》遊戲和規則簡介
+
+https://youtu.be/m3ZEn1JzicY
+```
+
+
+
+
+
+## English, please
+
+```markdown
+I assumed chinese is the main language for this group.
+
+And, English is also okay.
+
+Here are articles written in English by the push.game team.
+
+- [The Genesis](https://push.game/saysomething2world-the-genesis/)
+- [How to write a message on blockchain, then win prize, lottery and bonus?](https://saysomething2.world/i?a=0x1)
+- [More posts on the blog](https://push.game/)
+
+There is also a video can helps you: https://youtu.be/m3ZEn1JzicY
+```
+
+
+
+
+
+
+
+
+
+
 ## 无法生成邀请？
 
 > 无法,不能;<br/>
@@ -419,6 +478,31 @@ PS:
 
 源码在 [PUSH.GAME 团队的 Github](https://github.com/PushDotGame/telegram-bots)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 常用组合
 
