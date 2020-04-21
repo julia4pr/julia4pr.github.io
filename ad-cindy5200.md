@@ -19,7 +19,7 @@ tagline: 图文组合按序使用
 - **文本记得留空行**
 - **完整复制文本，包含 emoji 表情哦**
 - 如图：
-  ![text](/assets/pops/cindy_text.png)
+  ![text](/assets/pops/cindy_text1.png)
 - 空行，换行：在 PC 键盘上使用 Ctrl + Enter 输入
 
 
@@ -30,9 +30,9 @@ https://t.me/juliaGroup
 ```
 
 这是一个群组链接，<br>
-把整行文字关联，<br>
+链接只关联 `>> .. <<` 作为链接标题 **注意这里有更新**<br>
 我在 PC 端点建立链接时是这样的：
-![link](/assets/pops/cindy_link.png)
+![link](/assets/pops/cindy_link1.png)
 
 
 
